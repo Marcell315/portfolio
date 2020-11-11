@@ -1,0 +1,118 @@
+<!DOKTYPE html>
+<html>
+	<head>
+		<title>Kapsa Marcell </title>
+		<link rel="icon" typ="image/jpg" href="profiljo2.jpg"/>
+		
+		<link rel="stylesheet" href="portfolio.css" type="text/css">
+	</head>
+	<body>
+		<table width=100% border="0">
+			<tr>
+				<td height=800px width= 50%><h1 style= "margin: 10%"><b>Szia, Kapsa Marcell vagyok, </b><b>energetikai mérnök hallgató</b></h1></td>
+				<td rowspan="2"><img src="profiljo2.jpg" width=90% align="right"></td>
+			</tr>
+			<tr>
+				<td><p style="text-indent:10%"><u>Facebook</u>/<u>Linkedin</u>/<u>Twitter</u>/<u>Instagram</u></p></td>
+				
+			</tr>
+			<tr>
+				<td height=100px></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td><h2 style="font-size: 30px; color: #85adad; text-indent:10%":>Bemutatkozás</h2>  </td>
+				<td><h2 style="font-size: 30px; color: #85adad">Készségek</h2></td>
+			</tr>
+			<tr>
+				<td><p style="margin: 10%"> Kapsa Marcell vagyok, 19 éves, energetikai mérnök hallgató a Budapesti Műszaki és Gazdaságtudományi Egyetemen. Mivel még csak idén kezdtem a képzést ezért nem tudok sok mindent, de abiciózus vagyok és biztos vagyok benne, hogy számos új és hasznos dolgot fogok tanulni.</p></td>
+				<td><p style="vertical-align: top"><b>Precizitás</b>, Új ismeretek gyors elsajátítása, <b>Kitartás</b>, Kreativitás, <b>Komplex gondolkodás</b>, Jó problémamegoldó képesség, <b>Jó kommunikációs képesség</b>, Kiváló vezetői képesség</p></td>
+			</tr>
+			<tr>
+				<td><br><br><br><br><br><br><br></td>
+				<td></td>
+			</tr>
+		</table>
+		<table style="background-color:#f5fbff" width=100% border="0">
+			<tr>
+				<td><br><br><br><br><br><br><br></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width=50%><h2 style="font-size: 30px; color: #85adad; text-indent:10%;vertical-align:middle">Szakmai Tapasztalat</h2></td>
+				<td><ul><li><h2 style="font-size: 30px">Energetikai Szakkollégium (ESZK)</h2></li></ul></td>
+			</tr>
+			<tr>
+				<td><br><br><br><br><br></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width=50%><h2 style="font-size: 30px; color: #85adad; text-indent:10%;vertical-align:middle">Tanulmányok</h2></td>
+				<td>
+					<ul>
+						<li><h2 style="font-size: 30px">Budapesti Műszaki és Gazdaságtudományi Egyetem (2020-)</h2><ul><li><p>Energetikai mérnök BSc</p></ul></li> </li>
+					</ul>
+					<ul>
+						<li><h2 style="font-size: 30px">ELTE Radnóti Miklós Gyakorló Általános Iskola és Gyakolró Gimnázium(2012-2020)</h2> </li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td><br><br><br><br><br></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width=980px><h2 style="font-size: 30px; color: #85adad; text-indent:10%;vertical-align:middle">Kompetenciák</h2></td>
+				<td>
+					<ul>
+						<li><h2 style="font-size: 30px">Nyelvismeret</h2><ul> <li><p><b>Angol:</b> középfokú (B2) nyelvvizsga, tárgyalóképes, aktív nyelvtudás</p></li> <li><p><b>Német:</b> alapfokú nyelvtudás</p></li></ul></li>
+						<li><h2 style="font-size: 30px">Számítógépes Ismeretek</h2><ul> <li><p>Microsoft Office <b>Word</b>, -<b>Excel</b>, -<b>PowerPoint</b> középszintű ismerete</p></li> <li><p>Adobe <b>Photoshop</b>, -<b>Lightroom</b>, -<b>Premiere Pro</b> felhasználói szintű ismerete</p></li>  <li><p><b>Vegas Pro</b> felhasználói szintű ismerete</p></li>  <li><p><b>C#</b>, <b>HTML</b> programozási nyelvek alapszintű ismerete</p></li>  </ul></li>
+						<li><h2 style="font-size: 30px">Egyéb</h2><ul> <li><p><b>B</b> kategóriás jogosívánnyal rendelkezem</p></li> <li><p>Hobbijaim közé tartozik a <b>drónozás</b>, <b>tőzsdézés</b>, <b>zenélés</b></p></li> </ul></li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td><br><br><br><br></td>
+				<td></td>
+			</tr>
+			
+		</table>
+		<table style="background-color:#2369b0" width=100% border="0">
+			
+			<tr>
+				<td width=80%><p style="margin: 5%; font-size: 40px; color: white; font-family: Goudy Old Style"><b>"Aki nem lépett rá a felismerés útjára, az a szenvedéseiből tanul. Amikor már elege lesz a szenvedésből, akkor felismeri, hogy mit kell tennie ahhoz, hogy szenvedései véget érjenek."</b></p></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td><p style="text-indent:10%; font-size: 20px; color: white">- Kurt Tepperwein</p></td>
+			</tr>
+			<tr>
+				<td><br><br><br><br></td>
+			</tr>
+		</table >
+		<table width=100% border="0">
+			<tr>
+				<td><br><br><br><br><br></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width=50%><p style="font-size:60px; color:#2369b0; text-indent:30%"><b>Írj rám!</b></p></td>
+				<td width=25%>
+					<p style="color:#85adad; font-size:20px">—Social media</p>
+					<p style="color:#85adad; font-size:20px"><u>Linkedin<br>Istagram<br>Facebook<br>Twitter</u></p>
+				</td>
+				<td>
+					<p style="color:#85adad; font-size:20px">—Kontakt</p>
+					<p style="color:#85adad; font-size:20px"><u>kapsamarcell@gmail.com<br><br>+36/70 123 4567</u></p>
+				</td>
+			</tr>
+			<tr>
+				<td><br><br><br><br><br></td>
+				<td></td>
+				<td></td>
+			</tr>
+		</table>
+	</body>
+</html>
